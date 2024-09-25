@@ -20,7 +20,7 @@ public class Desafio {
         boolean statusMissao = false;
 
 
-        if(idade < 15 && nivelDificuldadeMissao == 'C' || nivelDificuldadeMissao == 'D' ) {
+        if(idade < 15 && (nivelDificuldadeMissao == 'C' || nivelDificuldadeMissao == 'D' )) {
             System.out.println("Missão concluida");
             statusMissao = true;
         }else if(idade >= 15){
@@ -49,7 +49,7 @@ public class Desafio {
 
 
 
-        if(idade < 15 && nivelDificuldadeMissao == 'C' || nivelDificuldadeMissao == 'D' ) {
+        if(idade < 15 && (nivelDificuldadeMissao == 'C' || nivelDificuldadeMissao == 'D') ) {
             System.out.println("Missão concluida");
             statusMissao = true;
         }else if(idade >= 15){
@@ -76,7 +76,7 @@ public class Desafio {
 
 
 
-        if(idade < 15 && nivelDificuldadeMissao == 'C' || nivelDificuldadeMissao == 'D' ) {
+        if(idade < 15 && (nivelDificuldadeMissao == 'C' || nivelDificuldadeMissao == 'D' )) {
             System.out.println("Missão concluida");
             statusMissao = true;
         }else if(idade >= 15){
