@@ -1,4 +1,4 @@
-package IfElse;
+package nivelFacil.IfElse;
 
 import java.util.ArrayList;
 import java.util.Scanner;

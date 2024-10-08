@@ -1,4 +1,4 @@
-package IfElse;
+package nivelFacil.IfElse;
 
 public class Desafio {
     public static void main(String[] args) {
